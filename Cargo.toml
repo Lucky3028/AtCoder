@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "jol_2022_2nd_a",
+]
